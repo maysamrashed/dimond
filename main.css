@@ -16,6 +16,30 @@ body {
     background-color: white;
     color: #1E1E1E;
 }
+.light p{
+    color: #1E1E1E;
+}
+.light  a{
+    color: #1E1E1E;
+}
+.dimond .new-collection p{
+    color: #e7e7e7;
+}
+.earrings h2{
+    color: #1E1E1E;
+}
+.light h2 {
+    color: #1E1E1E;
+}
+.light h1 {
+    color: #1E1E1E;
+}
+.light h3 {
+    color: #1E1E1E;
+}
+.light span{
+    color: #1E1E1E;
+}
 button{
     cursor: pointer;
 }
